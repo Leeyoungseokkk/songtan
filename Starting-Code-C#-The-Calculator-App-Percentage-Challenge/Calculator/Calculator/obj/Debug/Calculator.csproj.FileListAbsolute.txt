@@ -1,0 +1,45 @@
+C:\Users\lalor\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lalor\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\lalor\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\lalor\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\myejr\Downloads\Starting-Code-C#-The-Calculator-App-Percentage-Challenge\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
